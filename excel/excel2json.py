@@ -9,7 +9,7 @@ from xlrd import open_workbook
 import re
 import json
 
-filePath = "C://Users//MISuser//Desktop//业务提示消息数据.xls"
+filePath = "C://Users//MISuser//Desktop//test.xls"
 resultFilePath = "C:/Users/MISuser/Desktop/test.txt"
 sheetIndex = 0
 
